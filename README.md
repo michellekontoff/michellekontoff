@@ -5,6 +5,7 @@ I'm a former bio-research tech, turned code cruncher and bug slayer. My first pr
 I'm currently looking for exciting opportunities as a full stack developer. Check me out on [LinkedIn](https://www.linkedin.com/in/michelle-kontoff-149866132/)!
 
 ## Projects
+To see their repos, scroll down to my pinned projects!
 
 ### [Babeling Book](https://babelingbook.herokuapp.com/)
 (Flask, SQLAlchemy, ReactJS)
