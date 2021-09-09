@@ -1,4 +1,4 @@
-###  👋 I'm Michelle :tada: :tada: :tada: :tada:
+###  👋 I'm Michelle :tada::tada::tada::tada:
 
 <!--
 **michellekontoff/michellekontoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
