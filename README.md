@@ -1,4 +1,4 @@
-## 💎 Hi, I'm Michelle and I'm ready code! 💎
+## 💎 Hi, I'm Michelle and I'm ready to code! 💎
 
 I'm a former bio-research tech, turned code cruncher and bug slayer. My first programming languages were HTML and CSS when I was thirteen. I wanted to design a pretty page for my Neopets guild, so I taught myself what I needed to know. I enjoy solving problems from a logical perspective. I decided to make the switch to web development because I realized I was more interested in the tech and web dev is the hot market to be in.
 
