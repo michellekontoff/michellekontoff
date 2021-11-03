@@ -11,24 +11,27 @@ To see their repos, scroll down to my pinned projects!
 (Flask, SQLAlchemy, ReactJS)
 
 *A single-page blogging site with posts and comments || solo project*
-- Constructed a React Context Provider that fetches and stores a post’s comments that enables the comment subcomponents to universally access to the list of comments and fetch the new list when comments are edited or added
-- Incorporated local storage to remember whether the sidebar was open when the user refreshes the page or navigates backwards for a fluid user experience
-- Implemented classy slide-in effect for the sidebar on login and sign up that incorporates React state and CSS transitions for improved aesthetic
-
-### [SpudHub](https://spudhub.herokuapp.com/)
-(Flask, SQLAlchemy, ReactJS)
-
-*A single-page Etsy clone to buy and sell produce || group project*
-- Spearheaded implementation of a shopping cart that utilizes local storage and the Redux store to dynamically update and save its contents, so they can be loaded them even when the page refreshes or after the user logs out then in again
-- Designed Flask model relationships that link orders and the products therein through an order details joins table, which sets products as a property of order, thereby streamlining queries and displaying a user’s order history
-- Built custom React hooks to handle shopping cart CRUD functions which keep code DRY.
+- Constructed a React Context for comments component and its children that shows dynamic, immediate updates when changes are made to comments for increased app responsiveness.
+- Implemented responsive CSS media queries for smooth viewing on almost any screen size.
+- Designed RESTful APIs and relational database models that enable easy querying of posts and other data from an organized PostgreSQL database.
 
 ### [PokeProbe](https://pokeprobe.herokuapp.com/)
 (Express, Sequelize, Pug, JavaScript)
 
-*Product Hunt clone where users catch and make profiles for the Pokemon they catch || group project*
-- Manipulated the DOM to implement frontend validation of forms, ensuring input data was not lost by the page refreshing on submit
-- Incorporated event listeners to dynamically update the caught Pokemon’s name on the screen as the user typed it
+*Product Hunt clone where users catch hybrid Pokemon and make profiles for them*
+- Manipulated the DOM to implement frontend validation of forms, ensuring input data was not lost by the page refreshing on submit, making form submission easy and smooth for the user.
+- Implemented a search bar that queries the database for trainers and pokemon whose name, parent species, or element match the search term for user convenience.
+- Developed a complex relational database that links hybrid pokemon to their parent species, their parents’ elemental types, and their trainers.
+
+### [SpudHub](https://spudhub.herokuapp.com/)
+(Flask, SQLAlchemy, ReactJS)
+
+*A single-page Etsy clone to buy and sell produce*
+- Spearheaded quality of life implementation of a dynamically updating shopping cart that utilizes Redux and local storage so cart contents can be loaded after the page is refreshed, or the user is re-authenticated.
+- Designed Flask model relationships that link orders and the products therein through an order details joins table, which sets products as a property of order, resulting in more detailed queries of order history.
+- Built custom React hooks to handle shopping cart CRUD functionality and keep code DRY.
+
+
 
 
 
