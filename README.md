@@ -5,9 +5,8 @@ I'm a former bio-research tech, turned code cruncher and bug slayer. My first pr
 I'm currently looking for exciting opportunities as a full stack developer. Check me out on [LinkedIn](https://www.linkedin.com/in/michelle-kontoff-149866132/)!
 
 ## Projects
-To see their repos, scroll down to my pinned projects!
 
-### [Babeling Book](https://babelingbook.herokuapp.com/)
+### [Babeling Book](https://babelingbook.herokuapp.com/) | [Repo](https://github.com/michellekontoff/babeling-book)
 (Flask, SQLAlchemy, ReactJS)
 
 *A single-page blogging site with posts and comments || solo project*
@@ -15,7 +14,7 @@ To see their repos, scroll down to my pinned projects!
 - Implemented responsive CSS media queries for smooth viewing on almost any screen size.
 - Designed RESTful APIs and relational database models that enable easy querying of posts and other data from an organized PostgreSQL database.
 
-### [PokeProbe](https://pokeprobe.herokuapp.com/)
+### [PokeProbe](https://pokeprobe.herokuapp.com/) \ [Repo](https://github.com/jyih/pokeprobe)
 (Express, Sequelize, Pug, JavaScript)
 
 *Product Hunt clone where users catch hybrid Pokemon and make profiles for them*
@@ -23,7 +22,7 @@ To see their repos, scroll down to my pinned projects!
 - Implemented a search bar that queries the database for trainers and pokemon whose name, parent species, or element match the search term for user convenience.
 - Developed a complex relational database that links hybrid pokemon to their parent species, their parents’ elemental types, and their trainers.
 
-### [SpudHub](https://spudhub.herokuapp.com/)
+### [SpudHub](https://spudhub.herokuapp.com/) | [Repo](https://github.com/michellekontoff/spudhub)
 (Flask, SQLAlchemy, ReactJS)
 
 *A single-page Etsy clone to buy and sell produce*
