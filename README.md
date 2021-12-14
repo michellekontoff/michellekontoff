@@ -1,6 +1,6 @@
 ## 💎 Hi, I'm Michelle and I'm ready to code! 💎
 
-I'm a former bio-research tech, turned code cruncher and bug slayer. My first programming languages were HTML and CSS when I was thirteen. I wanted to design a pretty page for my Neopets guild, so I taught myself what I needed to know. I enjoy solving problems from a logical perspective. I decided to make the switch to web development because I realized I was more interested in the tech and web dev is the hot market to be in.
+I'm a former bio-research tech, turned code cruncher and bug slayer. My first programming languages were HTML and CSS when I was thirteen. I wanted to design a pretty page for my Neopets guild, so I taught myself what I needed to know. I enjoy solving problems from a logical perspective. I decided to make the switch to programming because I because I love the high of implementing a creative solution and seeing the results immediately.
 
 I'm currently looking for exciting opportunities as a full stack developer. Check me out on [LinkedIn](https://www.linkedin.com/in/michelle-kontoff-149866132/)!
 
